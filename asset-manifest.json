@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.d28b60e6.chunk.css",
-    "main.js": "/static/js/main.f79b56ec.chunk.js",
-    "main.js.map": "/static/js/main.f79b56ec.chunk.js.map",
+    "main.css": "/static/css/main.e8730248.chunk.css",
+    "main.js": "/static/js/main.d95c5cb2.chunk.js",
+    "main.js.map": "/static/js/main.d95c5cb2.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.a55c4a6f.chunk.js": "/static/js/2.a55c4a6f.chunk.js",
-    "static/js/2.a55c4a6f.chunk.js.map": "/static/js/2.a55c4a6f.chunk.js.map",
+    "static/js/2.654a7f49.chunk.js": "/static/js/2.654a7f49.chunk.js",
+    "static/js/2.654a7f49.chunk.js.map": "/static/js/2.654a7f49.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.70ee99020b1295ef70c39f357c0164f3.js": "/precache-manifest.70ee99020b1295ef70c39f357c0164f3.js",
+    "precache-manifest.a8f8ea500d3e38c7e9679ab12990f10b.js": "/precache-manifest.a8f8ea500d3e38c7e9679ab12990f10b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.d28b60e6.chunk.css.map": "/static/css/main.d28b60e6.chunk.css.map",
-    "static/media/App.css": "/static/media/valerieSite.70bf8b00.png",
+    "static/css/main.e8730248.chunk.css.map": "/static/css/main.e8730248.chunk.css.map",
+    "static/media/App.css": "/static/media/vue-logo.346e12ee.svg",
     "static/media/OfHome_Donate.png": "/static/media/OfHome_Donate.945cff4a.png",
     "static/media/OfHome_Mobile.png": "/static/media/OfHome_Mobile.6ea418a2.png",
     "static/media/Selectim_Mockup_Home.jpg": "/static/media/Selectim_Mockup_Home.de095dc8.jpg",
+    "static/media/automation-tool.png": "/static/media/automation-tool.5ba8e329.png",
     "static/media/big-fish-game.png": "/static/media/big-fish-game.6e76ad25.png",
     "static/media/focus-group-icon.png": "/static/media/focus-group-icon.bd108023.png",
+    "static/media/medscape-site.png": "/static/media/medscape-site.b2ab8d2c.png",
     "static/media/paintings.png": "/static/media/paintings.a7fada72.png",
     "static/media/selectim-ui-bordered.png": "/static/media/selectim-ui-bordered.e84a9588.png",
-    "static/media/standups.png": "/static/media/standups.31102e9e.png"
+    "static/media/standups.png": "/static/media/standups.31102e9e.png",
+    "static/media/ticket-runner-2.png": "/static/media/ticket-runner-2.ae0e4ef8.png"
   }
 }
